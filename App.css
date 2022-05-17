@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+margin:auto;
+}
+
+th,td {
+border-bottom: 1px solid #ddd;
+width: 5cm;
+color: rgb(201, 129, 167);
+}
+
+.field {
+
+border:1px solid black;
+padding: 15px;
+width: 25cm;
+margin-top: 0;
+}
+
+legend {
+
+text-align: left;
+color: pink;
+
+}
+
+h1 {
+background-color:pink;
+margin: 0;
+padding: 10px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+color: white;
+}
+
